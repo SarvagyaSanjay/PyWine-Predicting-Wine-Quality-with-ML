@@ -41,6 +41,11 @@ The challenge for the data scientist is to **predict wine quality** from paramet
 
 ---
 
+## Predictive System and Evaluation
+The predictive system takes chemical parameters as input and outputs wine quality as 0 (bad) or 1 (good).
+The random forest model achieves an accuracy score of 0.925, correctly predicting wine quality for 93 out of 100 samples.
+
+
 ## 🔄 Workflow  
 
 ```mermaid
