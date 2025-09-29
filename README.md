@@ -1,7 +1,6 @@
 # 🍷 Wine Quality Prediction using Machine Learning  
 
-Welcome to the **Wine Quality Prediction Project**!  
-This is the **7th project** in the Machine Learning series presented by **Siddharthan** 🎥 on his YouTube channel.  
+Welcome to the **Wine Quality Prediction Project**!   
 The project demonstrates how to **predict wine quality** using **Random Forest Classifier** based on chemical parameters.  
 
 ---
@@ -31,7 +30,7 @@ The challenge for the data scientist is to **predict wine quality** from paramet
 ## 📊 Dataset Information  
 - 📥 **Source:** [Kaggle Wine Quality Dataset](https://www.kaggle.com/)  
 - 🧾 **Size:** `1599 rows × 12 columns`  
-- 🎯 **Target Column:** `quality` (integer 3–8)  
+- 🎯 **Target Column:** `quality`  
 
 ### ⚙️ Preprocessing  
 - ✅ Features (X): All chemical parameters  
