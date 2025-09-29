@@ -28,7 +28,7 @@ The challenge for the data scientist is to **predict wine quality** from paramet
 ---
 
 ## 📊 Dataset Information  
-- 📥 **Source:** [Kaggle Wine Quality Dataset](https://www.kaggle.com/)  
+📥 **Source:** [Kaggle - Red Wine Quality Dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009?resource=download)
 - 🧾 **Size:** `1599 rows × 12 columns`  
 - 🎯 **Target Column:** `quality`  
 
