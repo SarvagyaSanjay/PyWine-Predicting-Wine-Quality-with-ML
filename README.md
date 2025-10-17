@@ -4,10 +4,16 @@ Welcome to the **Wine Quality Prediction Project**!
 The project demonstrates how to **predict wine quality** using **Random Forest Classifier** based on chemical parameters.  
 
 ---
+## This is the accuracy result along with a test done
+<img width="740" height="686" alt="image" src="https://github.com/user-attachments/assets/cbeb2ab7-2175-4569-8c90-98ae92eae346" />
+
+
+---
 
 ## 📌 Project Objective  
 The goal is to build a **predictive system** that can classify wine as **Good (1) or Bad (0)** based on its **chemical properties**.  
 This is a practical example of applying **Machine Learning in the food & beverage industry** for **quality control** ✅.  
+
 
 ---
 
