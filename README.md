@@ -51,6 +51,10 @@ The challenge for the data scientist is to **predict wine quality** from paramet
 The predictive system takes chemical parameters as input and outputs wine quality as 0 (bad) or 1 (good).
 The random forest model achieves an accuracy score of 0.925, correctly predicting wine quality for 93 out of 100 samples.
 
+## Model Comparison
+This model comparision shows that Random Forest performs the best amongst all the three models.
+<img width="1194" height="222" alt="image" src="https://github.com/user-attachments/assets/415a8933-27fb-4945-8e67-2f63161d2348" />
+
 
 ## 🔄 Workflow  
 
